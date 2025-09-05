@@ -7,7 +7,7 @@ fn main(){
     let mut x = 1;
 
     // Type Inference
-    let y : i32 = -1;
+    let y: i32 = -1;
     let z = -1;
 
     // Shadowing - we can redeclare a variable with different value or type
